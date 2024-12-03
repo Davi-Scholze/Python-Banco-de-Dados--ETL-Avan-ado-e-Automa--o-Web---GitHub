@@ -15,6 +15,8 @@ vir terminal do vs code e ativar ambiente
 Teste\Scripts\Activate.ps1
 
 Teste\Scripts\Activate.ps1
+
+Teste\Scripts\Activate.ps1
 Teste\Scripts\Activate.ps1
 
 desativar=
